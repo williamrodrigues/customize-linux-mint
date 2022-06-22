@@ -1,2 +1,3 @@
 # Customizações no Linux Mint
-Custumização no  linux mint
+
+Créditos ao [LinuxScoop](https://www.youtube.com/c/LinuxScoop), baseado no [vídeo](https://www.youtube.com/watch?v=DMs7DX3Um9E).
