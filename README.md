@@ -1,2 +1,2 @@
-# customize-linux-mint
+# Customizações no Linux Mint
 Custumização no  linux mint
