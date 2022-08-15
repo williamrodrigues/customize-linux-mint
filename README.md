@@ -168,3 +168,24 @@ Desabilite o modo de edição do painel.
 
 
 ### Instalando e configurando o Plank
+
+Instale o plank
+```
+sudo apt install plank -y
+
+## Copiar tema para o plank
+cp -r ~/custom-theme/whitesur-gtk-theme/src/other/plank/* ~/.local/share/plank/themes/
+```
+
+Abra o plank, menu de aplicativos >> Todos os aplicativos >> Plank
+![](assets/img/clm-031.png)
+
+
+Configure o tema para 'theme-Dark', tamanho do icone para 34 e habilite o zoom do icone, conforme:
+![](assets/img/clm-032.png)
+
+
+Adicione o Plank na lista de aplicativos da inicialização, abra o menu de aplicativos e procure por 'aplicativos da inicialização', clique no botão '+' >> Escolha a aplicação >> Selecione o Plank >> Adicionar aplitivo
+![](assets/img/clm-033.png)
+
+![](assets/img/clm-034.png)
