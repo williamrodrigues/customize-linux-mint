@@ -147,3 +147,24 @@ Selecione no menu esquerdo 'Ações' e procure por 'start-here-symbolic'
 Edite o 'Texto no painel' para 'Applications'
 ![](assets/img/clm-026.png)
 
+
+#### Configurando Applets
+
+Abra o 'Applets', clicando com o botão direito do mouse ou pelo menu de aplicativos, depois selecione Applet Usário e clique no botão '+'
+![](assets/img/clm-027.png)
+
+![](assets/img/clm-028.png)
+
+
+Habilite o modo de edição do painel, clicando com o botão direito do mouse na barra de menu, depois arraste o icone de usuário do applet para o canto direito
+![](assets/img/clm-029.png)
+
+
+Clique com o botão direito do mouse no relógio >> Configurar..., habilite 'Usar um formato de data personalizado', personalize com a seguinte sugestão '%e de %B, %H:%M'
+![](assets/img/clm-030.png)
+
+
+Desabilite o modo de edição do painel.
+
+
+### Instalando e configurando o Plank
