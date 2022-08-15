@@ -104,7 +104,7 @@ Remover 'Mostrar àrea de trabalho', clicando com o botão direito do mouse
 ![](assets/img/clm-015.png)
 
 
-Remover o 'Menu', clicando com o botão direito do mouse
+Remover o 'Menu', clicando com o botão direito do mouse.<br>
 ![](assets/img/clm-016.png)
 
 
@@ -127,4 +127,23 @@ Arraste o icone para a esquesda
 ![](assets/img/clm-020.png)
 
 
+Clique com o botão direito do mouse >> Configurar
+
+![](assets/img/clm-021.png)
+
+![](assets/img/clm-022.png)
+
+![](assets/img/clm-023.png)
+
+
+No menu Aparência, clique no icone 'icone no painel'
+![](assets/img/clm-024.png)
+
+
+Selecione no menu esquerdo 'Ações' e procure por 'start-here-symbolic'
+![](assets/img/clm-025.png)
+
+
+Edite o 'Texto no painel' para 'Applications'
+![](assets/img/clm-026.png)
 
